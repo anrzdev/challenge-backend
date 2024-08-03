@@ -20,8 +20,3 @@ import (
 ```
 
 por ultimo "func main" es el punto de entrada de la aplicacion.
-```
-```
-
-```
-```
